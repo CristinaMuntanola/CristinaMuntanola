@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristinaMuntanola
-- 👀 I’m a biologist, bioinformatician and biostatistician student researcher. My field of research is plant conservation and mental cognition.
+- 👀 I’m a biologist, bioinformatician and biostatistician student researcher. My field of research is plant conservation and chronic conditions.
 - 🌱 I’m currently learning Python, R, PHP, HTML, CSS, ArcGIS...
 - 💞️ I’m looking to collaborate on everyone <3<3
 - 📫 How to reach me: via email (cmuntanola2016@uoc.edu)
