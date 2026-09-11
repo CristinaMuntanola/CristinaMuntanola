@@ -2,7 +2,7 @@
 - 👀 I’m a biologist, bioinformatician and biostatistician researcher. My field of research is plant conservation and chronic conditions.
 - 🌱 Working in Python, R, PHP, HTML, CSS, ArcGIS...
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me: via email (cmuntanola2016@uoc.edu)
+- 📫 How to reach me: via email (cristina.mv@salud.madrid.org)
 
 <!---
 CristinaMuntanola/CristinaMuntanola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
